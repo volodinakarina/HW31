@@ -1,0 +1,172 @@
+[
+  {
+    "model": "authentication.user",
+    "pk": "1",
+    "fields": {
+      "first_name": "Павел",
+      "last_name": "Никифоров",
+      "username": "pnikifirov",
+      "password": "gZvptL",
+      "role": "member",
+      "age": "21",
+      "locations": [
+        1
+      ],
+      "birth_date": "2000-01-01",
+      "email": "pnikifirov@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "2",
+    "fields": {
+      "first_name": "Альбина",
+      "last_name": "Игнатьева",
+      "username": "abiba_1341",
+      "password": "4fVqL2",
+      "role": "moderator",
+      "age": "24",
+      "locations": [
+        3
+      ],
+      "birth_date": "2000-01-01",
+      "email": "abiba_1341@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "3",
+    "fields": {
+      "first_name": "Иван",
+      "last_name": "Сысоев",
+      "username": "vanya777",
+      "password": "o535pj",
+      "role": "admin",
+      "age": "29",
+      "locations": [
+        8
+      ],
+      "birth_date": "2000-01-01",
+      "email": "vanya777@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "4",
+    "fields": {
+      "first_name": "Марина",
+      "last_name": "Беркутова",
+      "username": "orlanfree",
+      "password": "d49rSO",
+      "role": "moderator",
+      "age": "19",
+      "locations": [
+        10
+      ],
+      "birth_date": "2000-01-01",
+      "email": "orlanfree@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "5",
+    "fields": {
+      "first_name": "Галина",
+      "last_name": "Иванова",
+      "username": "galina_ivanova",
+      "password": "wCqlVE",
+      "role": "member",
+      "age": "41",
+      "locations": [
+        2
+      ],
+      "birth_date": "2000-01-01",
+      "email": "galina_ivanova@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "6",
+    "fields": {
+      "first_name": "Петр",
+      "last_name": "Бойченко",
+      "username": "petr_bo",
+      "password": "xuR2jf",
+      "role": "member",
+      "age": "37",
+      "locations": [
+        4
+      ],
+      "birth_date": "2000-01-01",
+      "email": "petr_bo@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "7",
+    "fields": {
+      "first_name": "Никита",
+      "last_name": "",
+      "username": "nikitapro",
+      "password": "gzP4vR",
+      "role": "member",
+      "age": "26",
+      "locations": [
+        7
+      ],
+      "birth_date": "2000-01-01",
+      "email": "nikitapro@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "8",
+    "fields": {
+      "first_name": "Виолетта",
+      "last_name": "Петушок",
+      "username": "riverna",
+      "password": "zo0rj6",
+      "role": "member",
+      "age": "24",
+      "locations": [
+        5
+      ],
+      "birth_date": "2000-01-01",
+      "email": "riverna@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "9",
+    "fields": {
+      "first_name": "Гульнара",
+      "last_name": "Ибрагимова",
+      "username": "gulnara321",
+      "password": "daMocL",
+      "role": "moderator",
+      "age": "22",
+      "locations": [
+        9
+      ],
+      "birth_date": "2000-01-01",
+      "email": "gulnara321@mail.ru"
+    }
+  },
+  {
+    "model": "authentication.user",
+    "pk": "10",
+    "fields": {
+      "first_name": "Борис",
+      "last_name": "Зайка",
+      "username": "dragon84",
+      "password": "sasha123456",
+      "role": "member",
+      "age": "35",
+      "locations": [
+        6
+      ],
+      "birth_date": "2000-01-01",
+      "email": "dragon84@mail.ru"
+    }
+  }
+]

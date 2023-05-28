@@ -1,0 +1,42 @@
+[
+  {
+    "model": "ads.category",
+    "pk": "1",
+    "fields": {
+      "name": "Котики",
+      "slug": "slug_1"
+    }
+  },
+  {
+    "model": "ads.category",
+    "pk": "2",
+    "fields": {
+      "name": "Песики",
+      "slug": "slug_2"
+    }
+  },
+  {
+    "model": "ads.category",
+    "pk": "3",
+    "fields": {
+      "name": "Книги",
+      "slug": "slug_3"
+    }
+  },
+  {
+    "model": "ads.category",
+    "pk": "4",
+    "fields": {
+      "name": "Растения",
+      "slug": "slug_4"
+    }
+  },
+  {
+    "model": "ads.category",
+    "pk": "5",
+    "fields": {
+      "name": "Мебель и интерьер",
+      "slug": "slug_5"
+    }
+  }
+]

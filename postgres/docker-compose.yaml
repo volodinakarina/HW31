@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres:latest
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: hw_27
+      POSTGRES_PASSWORD: hw_27
+      POSTGRES_DB: hw_27
+    restart: always
+    ports:
+    - "5432:5432"
+
+volumes:
+  postgres_data:
